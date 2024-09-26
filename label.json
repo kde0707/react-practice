@@ -1,0 +1,92 @@
+[
+    {
+        "name": "⚙ Setting",
+        "color": "e3dede",
+        "description": "개발 환경 세팅"
+    },
+    {
+        "name": "✨ Feature",
+        "color": "a2eeef",
+        "description": "기능 개발"
+    },
+    {
+        "name": "🌏 Deploy",
+        "color": "C2E0C6",
+        "description": "배포 관련"
+    },
+    {
+        "name": "🎨 Design",
+        "color": "FEF2C0",
+        "description": "CSS 등 사용자 UI 디자인 변경"
+    },
+    {
+        "name": "🐞 BugFix",
+        "color": "d73a4a",
+        "description": "버그 수정 또는 typo"
+    },
+    {
+        "name": "🎇 Clean up",
+        "color": "2721D7",
+        "description": "비즈니스 로직에 변경이 없고 코드 수정을 하는 경우"
+    },
+    {
+        "name": "🏷️ Rename",
+        "color": "f7d26d",
+        "description": "파일이나 디렉토리의 이름만 수정하는 경우"
+    },
+    {
+        "name": "🚨 Conflict",
+        "color": "D93F0B",
+        "description": "충돌 해결 내용"
+    },
+    {
+        "name": "📝 Comment",
+        "color": "008672",
+        "description": "필요한 주석 추가 및 변경"
+    },
+    {
+        "name": "🗑️ Remove",
+        "color": "5e7291",
+        "description": "파일을 삭제하는 작업만 수행하는 경우"
+    },
+    {
+        "name": "💻 CrossBrowsing",
+        "color": "C5DEF5",
+        "description": "브라우저 호환성"
+    },
+    {
+        "name": "📃 Docs",
+        "color": "1D76DB",
+        "description": "문서 작성 및 수정 (README.md 등)"
+    },
+    {
+        "name": "📬 API",
+        "color": "D4C5F9",
+        "description": "서버 API 통신"
+    },
+    {
+        "name": "🔨 Refactor",
+        "color": "f29a4e",
+        "description": "코드 리팩토링"
+    },
+    {
+        "name": "🙋‍♂️ Question",
+        "color": "9ED447",
+        "description": "질문이 있는 경우"
+    },
+    {
+        "name": "🥰 Accessibility",
+        "color": "facfcf",
+        "description": "웹접근성 관련"
+    },
+	{
+        "name": " ⏳ Implementing",
+        "color": "fd7dff",
+        "description": "구현중"
+    },
+    {
+        "name": "✅ Test",
+        "color": "ccffc4",
+        "description": "테스트(테스트 코드 추가, 수정, 삭제, 비즈니스 로직에 변경이 없는 경우)"
+    }
+]
